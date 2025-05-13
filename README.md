@@ -53,22 +53,6 @@ The main objective is to enable users to recreate a target 3D showpiece by selec
 - `L`: Toggle lighting
 - `F`: Finish construction and validate
 
-
-## 📹 Demo Video
-
-A video demonstration of the application is available:  
-📺 **[Watch Demo](./2024-06-18 15-49-30.mkv)**
-
-
-## 📘 Documentation
-
-The application meets the project requirements from the official [semester project instructions](Exam structure and semester project topic 2024.pdf), including:
-- Three different target shapes
-- Palette-part matching system
-- Interactive UI with part transformation and feedback
-- Correct geometry, color, and structure validation
-
-
 ## 📬 Author
 
 Luka Trunić
