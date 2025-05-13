@@ -38,7 +38,7 @@ The main objective is to enable users to recreate a target 3D showpiece by selec
 - IntelliJ IDEA or NetBeans with OpenGL setup
 
 ### Instructions:
-1. Clone or download the project folder.
+1. Download the project folder.
 2. Open the project in IntelliJ IDEA or NetBeans.
 3. Ensure all JOGL dependencies are available.
 4. Run the `Main.java` or the main application class.
